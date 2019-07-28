@@ -96,7 +96,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Teja Technologies Snapshot Nexus Repository</name>
-	      <url>http://http://18.216.252.237:8081/repository/maven-snapshot/</url>
+	      <url>http://18.222.129.182:8081/repository/maven-snapshot/</url>
 	    </snapshotRepository>
 
 </distributionManagement>
